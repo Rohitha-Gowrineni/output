@@ -1,0 +1,13 @@
+.heading{
+    color: blueviolet;
+}
+.TotalC{
+    display: flex;
+    justify-content: center;
+}
+.line{
+    height: 5px;
+    background: black;
+    margin-top: 15px;
+    margin-bottom: 70px;
+}
